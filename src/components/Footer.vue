@@ -3,7 +3,7 @@
   <footer class="footer-section">
     <div class="container relative">
       <div class="sofa-img">
-        <img src="/images/sofa.png" alt="Image" class="img-fluid" />
+        <img src="/images/apple-iphone-x-pictures-5.png" alt="Image" class="img-fluid" />
       </div>
 
       <div class="row">
@@ -76,7 +76,7 @@
               <ul class="list-unstyled">
                 <li><a href="#">About us</a></li>
                 <li><a href="#">Services</a></li>
-                <li><a href="#">Blog</a></li>
+               
                 <li><a href="#">Contact us</a></li>
               </ul>
             </div>
