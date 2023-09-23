@@ -5,7 +5,7 @@ This simple vue3 Simple Shop with vue router.
 
 ## Live Link
 
-- [@Live Link](https://app-landing-page-vu3.netlify.app/)
+- [@Live Link](https://furni-simple-shop-vue3.vercel.app/)
 
 
 ## Screenshots
