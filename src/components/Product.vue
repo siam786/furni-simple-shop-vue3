@@ -28,6 +28,7 @@ onBeforeMount(() => {
 							<img :src="product.thumbnail" class="img-fluid product-thumbnail">
 							<h3 class="product-title">{{ product.title }}</h3>
 							<strong class="product-price">${{ product.price }}</strong>
+							<p>{{ product.description }}</p>
 
 							<!-- <span class="icon-cross">
 								<img :src="product.thumbnail" class="img-fluid">
